@@ -1,0 +1,13 @@
+# Versioning and metadata
+.git
+.gitignore
+.dockerignore
+.elasticbeanstalk
+
+# Build dependencies
+dist
+node_modules
+coverage
+
+# No test in production build
+test
